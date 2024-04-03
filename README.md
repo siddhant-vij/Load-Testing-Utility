@@ -27,8 +27,9 @@ The goal is to measure and compare the Latency and Throughput of the [HTTP Serve
 ## Running the Tests
 - Start the server application - clone the [server repository](https://github.com/siddhant-vij/Word-Frequency-Server) and proceed with the next steps to run the server.
 - Run the load testing tool with a specified number of server & testing threads.
-- The tool will display the average latency and throughput for each run in the terminal - saving the results in `results.csv`.
+- The tool will display the average latency and throughput for each run in the terminal - saving the results in `resources/results.csv`.
 - Create charts to further compare and analyze the results.
+- Check the server performance with specialized tools like JMeter. Compare & contrast with this utility tool.
 
 <br>
 
